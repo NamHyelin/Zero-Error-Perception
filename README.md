@@ -20,7 +20,7 @@ J. Choi, **H. Nam**, J. Park, S.-W. Ko, and S.-L. Kim
 *Proc. of the 61st Allerton Conference on Communication, Control, and Computing, 2025.*
 
 
-[![IEEE Paper](https://www.ideals.illinois.edu/items/137322)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-252341?style=for-the-badge&logo=ieee&logoColor=A78BFA)](https://www.ideals.illinois.edu/items/137322)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-202C49?style=for-the-badge&logo=googlescholar&logoColor=79B8FF)](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=KTjNYtAAAAAJ&sortby=pubdate&citation_for_view=KTjNYtAAAAAJ:WF5omc3nYNoC)
 
 
