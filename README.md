@@ -13,8 +13,6 @@ The focus is on formulating rate-perception-distortion tradeoff with given seman
 
 ## Publication
 
-J. Choi, H. Nam, J. Park, S.-W. Ko, and S.-L. Kim, “,” to be presented at, and to appear in Proc. of the 61st Allerton Conference on Communication, Control, and Computing, 2025.
-
 **Zero Perception Error Rate-Distortion for Semantic Communication**
 
 J. Choi, **H. Nam**, J. Park, S.-W. Ko, and S.-L. Kim
