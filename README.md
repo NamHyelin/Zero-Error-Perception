@@ -37,6 +37,7 @@ A reconstruction can have small sample distortion while its distribution differs
 ### Zero Perception Error
 
 ZEPE requires the reconstructed distribution to equal the source distribution:
+
 $$
 Q_Y(y) = P_X(y).
 $$
@@ -44,14 +45,15 @@ $$
 Under this constraint, the rate-distortion problem becomes
 
 $$
-R_{\mathrm{ZEPE}}(D)
-=
+R_{\mathrm{ZEPE}}(D) =
 \min_{Q(y\mid x)} I(X;Y)
 \quad
 \text{subject to }
 \mathbb{E}[d(X,Y)]\leq D,
 \quad Q_Y=P_X.
-$$Preserving the distribution can require a higher rate than conventional rate-distortion coding at the same distortion. If sufficient distortion is allowed, independent sampling from the source distribution achieves ZEPE at zero rate.
+$$
+
+Preserving the distribution can require a higher rate than conventional rate-distortion coding at the same distortion. If sufficient distortion is allowed, independent sampling from the source distribution achieves ZEPE at zero rate.
 
 ### Semantic Sources and Generative Reconstruction
 
